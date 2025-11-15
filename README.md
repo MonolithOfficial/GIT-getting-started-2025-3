@@ -1,4 +1,4 @@
-#This project is something amazing
+# This project is something amazing
 
 ## smaller text
 
